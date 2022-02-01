@@ -1,3 +1,5 @@
+# Link: https://www.acmicpc.net/source/38415405
+
 if __name__ == '__main__':
     # To collect the kth floor, nth unit from the input values
     test_case = int(input())

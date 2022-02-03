@@ -16,5 +16,7 @@ BOJ (2798) - 블랙잭.py
 BOJ (2751) - 수 정렬하기2.py  
 BOJ (11650) - 좌표 정렬하기.py  
 LeetCode (66) - Plus One.py  
+Programmers Lv.1 - 모든 레코드 조회하기.md   
+Programmers Lv.1 - 최댓값 구하기.md   
 
 

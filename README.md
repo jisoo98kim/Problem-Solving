@@ -1,6 +1,5 @@
 # Algorithm 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jisoo98kim)](https://solved.ac/jisoo98kim/)  
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=jisoo98kim)](https://github.com/KnlnKS/leetcode-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jisoo98kim)](https://solved.ac/jisoo98kim/) [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=jisoo98kim)](https://github.com/KnlnKS/leetcode-stats)
 
 ## [2022.02.01]
 BOJ (1330) - 두 수 비교하기.py   

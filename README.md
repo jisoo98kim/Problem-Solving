@@ -19,4 +19,6 @@ LeetCode (66) - Plus One.py
 Programmers Lv.1 - 모든 레코드 조회하기.md   
 Programmers Lv.1 - 최댓값 구하기.md   
 
+## [2022.02.04]
+BOJ (9012) - 괄호.py
 

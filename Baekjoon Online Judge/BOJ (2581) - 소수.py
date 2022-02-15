@@ -1,3 +1,5 @@
+# Link: https://www.acmicpc.net/source/39168859
+
 import sys
 import math
 

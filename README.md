@@ -1,6 +1,9 @@
 # Algorithm 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jisoo98kim)](https://solved.ac/jisoo98kim/) [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=jisoo98kim)](https://github.com/KnlnKS/leetcode-stats)
 
+<details>
+<summary>[2022.02]</summary>
+
 ## [2022.02.01]
 BOJ (1330) - 두 수 비교하기.py   
 BOJ (2438) - 별 찍기 - 1.py   
@@ -100,3 +103,16 @@ BOJ (2941) - 크로아티아 알파벳.py
 BOJ (1316) - 그룹 단어 체커.py
 
 ## [2022.02.28]
+BOJ (1978) - 소수 찾기.py
+
+</div>
+</details>
+
+<details>
+<summary>[2022.03]</summary>
+
+## [2022.03.01]
+
+
+</div>
+</details>

@@ -1,4 +1,4 @@
-# Link:
+# Link: https://www.acmicpc.net/source/41277773
 
 import sys
 
